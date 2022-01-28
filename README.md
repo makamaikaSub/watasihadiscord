@@ -1,0 +1,2 @@
+# watasihadiscord
+MyDiscordCords
